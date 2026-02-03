@@ -1,6 +1,9 @@
-// TODO Indiquer ce que fait le programme
+// Programme qui affiche un message de bienvenue
+#include <iostream>
+
 int main()
 {
-    // TODO Afficher un message de bienvenue
+    std::cout << "Bienvenue !" << std::endl;
     return 0;
 }
+
