@@ -1,0 +1,6 @@
+# exécutables
+bienvenue
+*.out
+
+# fichiers objets
+*.o
