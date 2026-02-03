@@ -1,0 +1,25 @@
+#ifndef FONCTION_BIENVENUE_H
+#define FONCTION_BIENVENUE_H
+
+void afficherBienvenue();
+
+#endif // FONCTION_BIENVENUE_H
+// Affiche un message de bienvenue
+
+#include "fonction-bienvenue.h"
+#include <iostream>
+
+void afficherBienvenue()
+{
+    std::cout << "Bienvenue le monde !" << std::endl;
+}
+
+
+
+#include "fonction-bienvenue.h"
+
+int main()
+{
+    afficherBienvenue();
+    return 0;
+}
