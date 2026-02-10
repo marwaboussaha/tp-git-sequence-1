@@ -1,2 +1,4 @@
-TP Git – Séquence 1
-Programme de bienvenue en C++
+# Bienvenue
+
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
+`afficherBienvenue()`.
